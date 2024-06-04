@@ -1,0 +1,6 @@
+﻿Build started at 8:43 PM...
+1>------ Build started: Project: Todo-List, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Todo-List -> C:\Users\user\source\repos\Todo-List\Todo-List\bin\Debug\net8.0\Todo-List.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:44 PM and took 20.360 seconds ==========
